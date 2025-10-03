@@ -38,5 +38,22 @@ body{
     min-height: 230px ;
     min-width:  50%; ;
     background-color: pink;
-
+}
+.white-section{
+    min-height: 400px;
+    background-color: white;
+}
+.major-section{
+    min-height: 300px;
+    min-width: 40%;
+    background-color: rgb(15, 74, 200);
+}
+.minor-section{
+    min-height: 300px;
+    min-width: 30%;
+    background-color: pink;
+}
+.grey-section{
+    min-height: 400px;
+    background-color: rgb(213, 211, 211);
 }
