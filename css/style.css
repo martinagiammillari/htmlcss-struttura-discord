@@ -15,6 +15,7 @@ body{
 .header-container{
     height: 100px;
     background-color: lightblue;
+  
 }
 .container-flex{
     display: flex;
@@ -71,13 +72,33 @@ body{
     background-color: black;
 }
 .macro-section{
-    min-height: 300px;
-    min-width: 20%;
+    min-height: 350px;
+    min-width: 22%;
     background-color: coral;
 }
 .micro-section{
-    min-height: 300px;
-    min-width: 10%;
+    min-height: 350px;
+    min-width: 12%;
     background-color: turquoise;
     border: 1px solid black;
+}
+.footer-container{
+    height: 100px;
+    background-color: black;
+    border-top: 1px solid white;
+    
+}
+.footer-item{
+    height: 50%;
+    width: 70%;
+    background-color: teal;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.button{
+    background-color: pink;
+    padding: 5px;
+    border: 1px solid black;
+
 }
