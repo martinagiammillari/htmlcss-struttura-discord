@@ -66,3 +66,18 @@ body{
     min-width:70%;
     background-color: green;
 }
+.black-section{
+    min-height: 400px;
+    background-color: black;
+}
+.macro-section{
+    min-height: 300px;
+    min-width: 20%;
+    background-color: coral;
+}
+.micro-section{
+    min-height: 300px;
+    min-width: 10%;
+    background-color: turquoise;
+    border: 1px solid black;
+}
