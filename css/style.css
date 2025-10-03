@@ -57,3 +57,12 @@ body{
     min-height: 400px;
     background-color: rgb(213, 211, 211);
 }
+.big-section{
+    min-height: 800px;
+    background-color: rgb(213, 211, 211) ;
+}
+.big-banner{
+    min-height: 700px;
+    min-width:70%;
+    background-color: green;
+}
