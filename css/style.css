@@ -3,3 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: sans-serif;
+    width: 100%;
+    max-width: 1200px;
+   margin: 0;
+
+}
+
+.header-container{
+    height: 100px;
+    background-color: lightblue;
+}
+.container-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-item{
+    height: 50%;
+    width: 25%;
+    background-color: orange;
+    text-align: center;
+    border: 1px solid rgb(98, 56, 5);
+}
+    
